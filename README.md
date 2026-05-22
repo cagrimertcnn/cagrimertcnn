@@ -1,5 +1,24 @@
 # 💫 About Me:
-I'm currently working on DevOps<br>I’m looking for help with DevOps tools<br>I'm currently learning Azure DevOps<br>💬 Ask me about<br>https://www.linkedin.com/in/cagrimertcanabat/
+
+I'm currently building my own cybersecurity and DevSecOps homelab.
+
+Learning:
+- Linux
+- Docker
+- Networking
+- Web Application Security
+- Burp Suite
+- Nmap
+- SIEM & Detection Engineering
+
+Currently working on:
+- Ubuntu Server homelab
+- Kali Linux lab
+- OWASP Juice Shop testing
+- Dockerized environments
+
+Goal:
+Become a remote DevSecOps / Security Engineer. Ask me about<br>https://www.linkedin.com/in/cagrimertcanabat/
 
 
 ## 🌐 Socials:
